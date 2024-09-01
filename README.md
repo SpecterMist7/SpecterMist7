@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SpecterMist7
 - 👀 I’m interested in learning new stuff
-- 🌱 I’m currently learning FS WebDev, Python and C++
-- 💞️ I’m looking to collaborate as I upskill
+- 🌱 Currently learning FS WebDev, Python and C++
+- 💞️ I’m looking forward to collaborate as I upskill
 - 📫 How to reach me: you will (eventually)
 - ⚡ Do it for you 🫵🏼
 
