@@ -1,11 +1,5 @@
-- 👋 Hi, I’m @SpecterMist7
+- 👋 Hi, I’m @Aster S
 - 👀 I’m interested in learning new stuff
-- 🌱 Currently learning FS WebDev, Python and C++
+- 🌱 Currently learning FS WebDev and Python
 - 💞️ I’m looking forward to collaborate as I upskill
-- 📫 How to reach me: you will (eventually)
-- ⚡ Do it for you 🫵🏼
 
-<!---
-SpecterMist7/SpecterMist7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
